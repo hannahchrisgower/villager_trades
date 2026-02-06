@@ -39,3 +39,7 @@ img {
     display: flex;
     gap: 20px;
 }
+
+#content_heading {
+    text-align: center;
+}
