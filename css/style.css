@@ -38,4 +38,5 @@ img {
 #vlists {
     display: flex;
     gap: 20px;
+    margin: auto;
 }
