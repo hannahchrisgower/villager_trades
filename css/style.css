@@ -22,14 +22,14 @@ img {
 }
 
 #vtypes {
-    width: 40%;
+    width: 50%;
     background-color: #4f673c;
     border: 2px solid #66844D;
     padding: 10px;
 }
 
 #vlevels{
-    width: 40%;
+    width: 50%;
     background-color: #4f673c;
     border: 2px solid #66844D;
     padding: 10px;
@@ -37,6 +37,5 @@ img {
 
 #vlists {
     display: flex;
-    flex-direction: row;
     gap: 20px;
 }
