@@ -22,10 +22,8 @@ img {
 }
 
 #vtypes {
-    display: flex;
-    flex-direction: column;
-    width: 50%;
-    background-color: #8fbbbd;
-    border: 2px solid #4f673c;
+    width: 40%;
+    background-color: #4f673c;
+    border: 2px solid #66844D;
     padding: 10px;
 }
