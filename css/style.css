@@ -4,9 +4,9 @@ body {
 }
 
 header {
-    justify-content: center;
     width: 50%;
     background-color: #0c1009;
     border: 1px solid #4F673C;
     text-align: center;
+    margin: auto;
 }
