@@ -5,8 +5,9 @@ body {
 
 header {
     width: 50%;
-    background-color: #0c1009;
+    background-color: #232D1A;
     border: 1px solid #4F673C;
+    padding: 10px;
     text-align: center;
     margin: auto;
 }
