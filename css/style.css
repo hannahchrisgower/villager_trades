@@ -6,8 +6,17 @@ body {
 header {
     width: 50%;
     background-color: #232D1A;
-    border: 1px solid #4F673C;
+    border: 2px solid #4F673C;
     padding: 10px;
     text-align: center;
     margin: auto;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    margin: auto;
+    width: 50%
 }
