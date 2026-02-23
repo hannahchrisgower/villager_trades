@@ -47,7 +47,7 @@ img {
 }
 
 footer {
-    background-color: #abc398;
+    background-color: #4f673c;
     color: white;
     padding: 15px;
     text-align: center;
@@ -55,6 +55,7 @@ footer {
     font-size: 16px;
     display: inline-block;
     margin: 10px;
+    border-style: groove;
 }
 
 .subheader {
