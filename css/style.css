@@ -35,7 +35,7 @@ img {
     background-color: #4f673c;
     border: 2px solid #66844D;
     padding: 10px;
-    border-style:ridge;
+    border-style: dotted;
 }
 
 #vlists {
